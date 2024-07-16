@@ -1,6 +1,4 @@
-# Let's create the README.md file with the provided content in Russian and with proper formatting.
 
-readme_content = """
 # Решение Тестового задания Обработчик Excel
 Выполненные задачи находятся в файлах task1.py, task2.py
 
